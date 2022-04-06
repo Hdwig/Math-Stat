@@ -1,6 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import seaborn as sns
 
 x = np.array([35, 45, 190, 200, 40, 70, 54, 150, 120, 110])
 y = np.array([401, 574, 874, 919, 459, 739, 653, 902, 746, 832])
